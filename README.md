@@ -34,49 +34,53 @@ Project activities include setting up IBM Qradar Community Edition on Virtual Bo
 
 <p align="center">
 IBM Qradar Dashboard Overview: <br/>
-<img src="https://i.imgur.com/3F5CMsr.png" height="80%" width="80%" alt="Wazuh Dashboard"/>
+<img src="https://i.imgur.com/3F5CMsr.png" height="80%" width="80%" alt="Image showing IBM Qradar Dashboard Overview"/>
 <br />
 <br />
 IBM Qradar Admin tab:  <br/>
-<img src="https://i.imgur.com/mOq6zCq.png" height="80%" width="80%" alt=" Wazuh Agents Overview"/>
+<img src="https://i.imgur.com/ACBZPz0.png" height="80%" width="80%" alt="Image showing IBM Qradar Admin tab"/>
 <br />
 <br />
-Threat Hunting Events: <br/>
-<img src="https://i.imgur.com/mJoQhSP.png" height="80%" width="80%" alt="Threat Hunting Events"/>
+Qradar Status on Console: <br/>
+<img src="https://i.imgur.com/AdPYHJT.png" height="80%" width="80%" alt="Image showing Qradar Status on Console"/>
 <br />
 <br />
-Vulnerability Detection Dashboard:  <br/>
-<img src="https://i.imgur.com/JH2oxPJ.png" height="80%" width="80%" alt="Vulnerability Detection Dashboard"/>
+IBM Qradar SIEM Reports:  <br/>
+<img src="https://i.imgur.com/du5AX5T.png" height="80%" width="80%" alt="Image showing IBM Qradar SIEM Reports"/>
 <br />
 <br />
-File Integrity Monitoring Alerts:  <br/>
-<img src="https://i.imgur.com/Tz7TFz4.png" height="80%" width="80%" alt="File Integrity Monitoring Alerts"/>
+Installing Wincollect on Windows Server 2025:  <br/>
+<img src="https://i.imgur.com/Di0d7d6.png" height="80%" width="80%" alt=" Image Installing Wincollect on Windows Server 2025"/>
 <br />
 <br />
-Installing Suricata Emerging Threats Rules:  <br/>
-<img src="https://i.imgur.com/LIJ5XFW.png" height="80%" width="80%" alt="Installing Suricata Emerging Threats Rules"/>
+Still Installing Wincollect on Windows Server 2025:  <br/>
+<img src="https://i.imgur.com/yyQKAVG.png" height="80%" width="80%" alt="Image showing Installing Wincollect on Windows Server 2025"/>
 <br />
 <br />
-Status of Suricata & Wazuh Agent<br/>
-<img src="https://i.imgur.com/OnPEdsS.png" height="80%" width="80%" alt="Status of Suricata & Wazuh Agent"/>
+
+<img src="https://i.imgur.com/JuMKO19.png" height="80%" width="80%" alt="Image showing Installing Wincollect on Windows Server 2025"/>
 <br />
 <br />
-NMAP OS & Decoy Scan:  <br/>
-<img src="https://i.imgur.com/O8XgBxI.png" height="80%" width="80%" alt="NMAP OS & Decoy Scan"/>
+
+<img src="https://i.imgur.com/FDgqR1R.png" height="80%" width="80%" alt="Image showing Installing Wincollect on Windows Server 2025 "/>
   <br />
 <br />
-NMAP Scan Alert on Wazuh-Manager:  <br/>
-<img src="https://i.imgur.com/8yYHdgK.png" height="80%" width="80%" alt="NMAP Scan Alert on Wazuh-Manager"/>
+Configuring Wincollect Agent on Qradar SIEM:  <br/>
+<img src="https://i.imgur.com/icteSr3.png" height="80%" width="80%" alt="Image showing Configuring Wincollect Agent on Qradar SIEM"/>
   <br />
 <br />
-Alerts Analysis:  <br/>
-<img src="https://i.imgur.com/JXQnvFt.png" height="80%" width="80%" alt=Alerts Analysis"/>
+Configuring a Log Source on Qradar SIEM:  <br/>
+<img src="https://i.imgur.com/MarJCZq.png" height="80%" width="80%" alt=Image showing Configuring a Log Source on Qradar SIEM"/>
   <br />
 <br />
-Brute Force Attack Simulation Using Hydra:  <br/>
-<img src="https://i.imgur.com/fGnPolx.png" height="80%" width="80%" alt="Brute Force Attack Simulation Using Hydra"/>
+Deploying Changes to Qradar SIEM:  <br/>
+<img src="https://i.imgur.com/MUyELjH.png" height="80%" width="80%" alt="Image showing Deploying Changes to Qradar SIEM"/>
   <br />
 <br />
-Active Response Alerts:  <br/>
-<img src="https://i.imgur.com/mL040CP.png" height="80%" width="80%" alt="Active Response Alerts"/>
+Location to add scripts for syslog integration:  <br/>
+<img src="https://i.imgur.com/B0LtITe.png" height="80%" width="80%" alt="Image showing Location to add scripts for syslog integration"/>
+<br />
+IBM Qradar SIEM Details:  <br/>
+<img src="https://i.imgur.com/6meJMYW.png" height="80%" width="80%" alt="Image showing IBM Qradar SIEM Detail"/>
+  <br />
 </p>
